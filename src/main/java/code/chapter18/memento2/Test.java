@@ -5,7 +5,7 @@ public class Test {
 	public static void main(String[] args){
 
 		System.out.println("**********************************************");		
-		System.out.println("《大话设计模式》代码样例");
+		System.out.println("《大话设计模式》代码样例 备忘录模式-游戏角色状态02");
 		System.out.println();		
 
         //大战Boss前

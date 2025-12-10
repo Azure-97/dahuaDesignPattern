@@ -7,7 +7,7 @@ public class Test {
 	public static void main(String[] args){
 
 		System.out.println("**********************************************");		
-		System.out.println("《大话设计模式》代码样例");
+		System.out.println("《大话设计模式》代码样例 策略模式-商场管理软件05简单工厂和策略模式");
 		System.out.println();		
 
 		int discount = 0; 		//商品折扣模式(1.正常收费 2.打八折 3.打七折)

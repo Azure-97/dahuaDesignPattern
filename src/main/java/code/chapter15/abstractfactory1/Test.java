@@ -5,7 +5,7 @@ public class Test {
 	public static void main(String[] args){
 
 		System.out.println("**********************************************");		
-		System.out.println("《大话设计模式》代码样例");
+		System.out.println("《大话设计模式》代码样例 抽象工厂模式-多数据库01");
 		System.out.println();		
 
         User user = new User();

@@ -7,7 +7,7 @@ public class Test {
 	public static void main(String[] args){
 
 		System.out.println("**********************************************");		
-		System.out.println("《大话设计模式》代码样例");
+		System.out.println("《大话设计模式》代码样例 计算器1");
 		System.out.println();		
 
 		Scanner sc = new Scanner(System.in);

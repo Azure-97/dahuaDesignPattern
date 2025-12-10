@@ -7,7 +7,7 @@ public class Test {
 	public static void main(String[] args){
 
 		System.out.println("**********************************************");		
-		System.out.println("《大话设计模式》代码样例");
+		System.out.println("《大话设计模式》代码样例 抽象工厂模式-商场管理软件09反射+简单工厂+策略模式+装饰模式+工厂方法");
 		System.out.println();		
 
 		int discount = 0; 		//商品折扣模式
