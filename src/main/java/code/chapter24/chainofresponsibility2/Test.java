@@ -4,13 +4,13 @@ public class Test {
 
     public static void main(String[] args) {
 
-        System.out.println("**********************************************");       
+        System.out.println("**********************************************");
         System.out.println("《大话设计模式》代码样例");
-        System.out.println(); 
+        System.out.println();
 
-        CommonManager manager = new CommonManager("金利");
-        Director director = new Director("宗剑");
-        GeneralManager generalManager = new GeneralManager("钟精励");
+        CommonManager manager = new CommonManager("金利"); //普通经理
+        Director director = new Director("宗剑");  //总监
+        GeneralManager generalManager = new GeneralManager("钟精励");  //总经理
         manager.setSuperior(director);
         director.setSuperior(generalManager);
 
